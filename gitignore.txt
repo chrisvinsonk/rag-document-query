@@ -5,8 +5,6 @@ __pycache__/
 venv/
 *.so
 
-
-# Environment variables
 .env
 
 # PyCharm
