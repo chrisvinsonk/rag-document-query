@@ -1,0 +1,9 @@
+streamlit==1.32.0
+google-generativeai==0.8.3
+faiss-cpu==1.7.4
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+langchain==0.1.11
+# torch==2.5.0
+sentence-transformers==3.2.0
+reportlab==4.2.5
