@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.so
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Operating System Files
+.DS_Store
+Thumbs.db
