@@ -5,8 +5,6 @@ __pycache__/
 venv/
 *.so
 
-# Streamlit
-.streamlit/
 
 # Environment variables
 .env
